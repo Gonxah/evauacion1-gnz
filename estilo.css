@@ -108,6 +108,7 @@ form .contraseña{
 }
 
 .username input{
+    color: orangered;
     width: 100%;
     padding: 0 5px;
     height: 40px;
@@ -118,6 +119,7 @@ form .contraseña{
 }
 
 .contraseña input{
+    color: orangered;
     width: 100%;
     padding: 0 5px;
     height: 40px;
